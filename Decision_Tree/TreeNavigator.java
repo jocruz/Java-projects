@@ -1,6 +1,4 @@
-/**
- * Created by jbc on 2/17/2017.
- */
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
