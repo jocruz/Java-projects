@@ -1,0 +1,27 @@
+Scenario:
+A particular data compression algorithm can reduce a file's size to 80 percent of its original size (so, for
+example, a 100-byte file will compress to 80 bytes). Before the compressed file can be stored on disk, it
+must be divided into blocks of 512 bytes each (so a 1000-byte compressed file will require two 512-byte
+blocks for storage). 
+
+The program does the following:
+
+1. Creates a new Scanner
+2. Prompts for and read in the number of empty/available blocks on disk
+3. While the number of empty blocks is greater than 0 and the user has not entered -1 to exit:
+a. Print the number of free blocks available
+b. Prompt for and read in the size of an uncompressed file, in bytes (an integer value), or -1 to quit.
+c. If the user enters a value greater than -1:
+i. Calculate the size in bytes of the file when it is compressed (to keep the compressed size an
+integer, first multiply the original size by 8 and then divide the product by 10)
+ii. Print out the size of the compressed file, in bytes
+iii. Calculate the number of blocks required to hold the compressed file. Start by dividing the
+compressed size by 512; the quotient is the starting number of blocks. If the remainder of that
+division is greater than 0, add 1 block to the total required.
+iv. Print out the number of blocks required
+v. If the number of blocks needed is greater than the number of free blocks:
+1. Print out a message reporting that not enough blocks are available
+2. Set the total number of free blocks to 0 (this will cause your loop to end)
+vi. Otherwise:
+1. Print a message indicating that the file has been saved
+2. Subtract the number of blocks required from the number of free blocks
