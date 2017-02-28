@@ -1,4 +1,4 @@
-<b><i><u> All java code can be found in the src folder. </b></i></u>
+<b><u> All java code can be found in the src folder. </b></u>
 
 <b><i><u>The Scenario is the following: </b></i></u>
 
