@@ -1,5 +1,5 @@
 # Java-projects
-Random assorts of Java programs I worked on/ am currently working on. These are some of my recent projects to further understand data structures.
+<b></i>Random assorts of Java programs I worked on/ am currently working on. These are some of my recent projects to further my growth in Java programming. My current goal with Java is to learn as much as I can in data structures and algorithms to be able to create applications for real world solution as well as android applications. </b> </i>
  
 For Array Lists I did a baseball card manager
 
