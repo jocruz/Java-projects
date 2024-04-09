@@ -15,6 +15,9 @@ Welcome to my collection of Java projects, a diverse array of programs that refl
 
 ## 📂 Detailed Project Descriptions
 
+### 🃏 Baseball Card Collection Project
+Manages a baseball card collection, allowing users to add, remove, copy, and trade cards between two collections. It demonstrates array manipulation, object-oriented programming, and interaction through a command-line interface.
+
 ### 🎴 Stackotaire (Stacks Project)
 - A solitaire game utilizing stack data structures to manage the cards and game logic, emphasizing the use of stacks in managing ordered collections.
 - There is a GUI version as well with no readme.
