@@ -13,6 +13,25 @@ Welcome to my collection of Java projects, a diverse array of programs that refl
 - **Trees:** 🌳 Developed a `Tree Navigator` to manipulate and navigate through decision trees, enhancing understanding of tree data structures. Also crafted a `Tree Kiosk Simulator` to mimic real-world applications, demonstrating advanced concepts in tree manipulation and traversal, which further showcases my proficiency in Java, object-oriented programming, and complex data structures and algorithms.
 - **Graphs and Adjacency Matrix:** 📊 Developed a **Sigma Airline Simulator** ✈️. Masterfully developed a `Sigma Airline` management application, showcasing advanced Java programming, graph theory, and dynamic data structure utilization. This simulator features an intuitive interface for managing airport networks, using an **Adjacency Matrix** for efficient route and distance tracking, and **ArrayLists** for dynamic airport data handling. The project employs **custom Comparators** to sort airports by various criteria, enhancing user interaction and data retrieval efficiency. The implementation of the **Floyd-Warshall Algorithm** demonstrates a sophisticated approach to pathfinding, enabling the calculation of shortest paths between airports. This simulator encapsulates the essence of real-world applications with persistent data management through Java **Serialization**, highlighting my ability to architect complex, efficient, and user-centric software solutions.
 
+## 📂 Detailed Project Descriptions
+
+### 🎴 Stackotaire (Stacks Project)
+- A solitaire game utilizing stack data structures to manage the cards and game logic, emphasizing the use of stacks in managing ordered collections.
+- There is a GUI version as well with no readme.
+
+### 🚌 Stony Brook Bus Simulator (Queues Project)
+- A simulation of a bus transport network using queue data structures to manage bus and passenger dynamics, showcasing queue utilization in scheduling and event management.
+
+### 🌍 Location Driver Application (Solo Project)
+- A navigation assistant application that converts user-input locations into latitude and longitude coordinates, demonstrating the use of APIs and data handling in real-world applications.
+
+### 🌳 Tree Navigator and Tree Kiosk Simulator (Trees Project)
+- A set of applications to navigate and manipulate decision trees, highlighting tree traversal and manipulation. The kiosk simulator uses a tree data structure to manage menu options in a service kiosk environment.
+
+### ✈️ Sigma Airline Simulator (Graphs and Adjacency Matrix Project)
+- An airline management simulator that uses graphs and adjacency matrices to track flights and routes, showcasing the application of graph theory and matrices in route optimization and resource management.
+
+
 ## 🎯 My Goals with Java
 
 My current odyssey with Java is fueled by the desire to master data structures and algorithms, enabling me to architect applications that solve real-world problems and explore the creation of Android applications.
