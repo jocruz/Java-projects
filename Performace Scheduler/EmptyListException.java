@@ -9,9 +9,26 @@
 *    e-mail: john.cruz@stonybrook.edu		
 *    Stony Brook ID: 108605747
 **/
+
+/**
+ * Exception thrown when attempting to perform an operation on an empty list.
+ * This exception helps in identifying actions that are invalid due to the absence of elements in the list.
+ */
 public class EmptyListException extends Exception {
 
-	public EmptyListException() 
-	{
-	}
+    /**
+     * Constructs an EmptyListException with the default message.
+     */
+    public EmptyListException() {
+        super("The list is empty.");
+    }
+
+    /**
+     * Constructs an EmptyListException with a custom message.
+     *
+     * @param message The message that details the exception cause
+     */
+    public EmptyListException(String message) {
+        super(message);
+    }
 }
