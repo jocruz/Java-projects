@@ -5,7 +5,7 @@ Welcome to my collection of Java projects, a diverse array of programs that refl
 
 ## 🛠️ Project Highlights
 
-- **Array Lists:** 🃏 For Array Lists, I developed a `Baseball Card Manager`, managing collections with finesse.
+- **Array Lists:** 🃏 For Array Lists, I developed a `Baseball Card Manager` and `Baccarat`, managing baseball cards and using arrays to manage the players/computers hands in Baccarat.
 - **Linked Lists:** 📅 Crafted a `Scheduler Manager` and `Custom Itinerary`, organizing tasks with precision.
 - **Stacks:** 🎴 Took on the challenge of creating a solitaire game, dubbed `Stackotaire`, stacking elements in a fun twist.
 - **Queues:** 🚌 Engineered a `Stony Brook Bus Simulator`, orchestrating queue dynamics in a simulated transport network.
@@ -14,6 +14,9 @@ Welcome to my collection of Java projects, a diverse array of programs that refl
 - **Graphs and Adjacency Matrix:** 📊 Developed a **Sigma Airline Simulator** ✈️. Masterfully developed a `Sigma Airline` management application, showcasing advanced Java programming, graph theory, and dynamic data structure utilization. This simulator features an intuitive interface for managing airport networks, using an **Adjacency Matrix** for efficient route and distance tracking, and **ArrayLists** for dynamic airport data handling. The project employs **custom Comparators** to sort airports by various criteria, enhancing user interaction and data retrieval efficiency. The implementation of the **Floyd-Warshall Algorithm** demonstrates a sophisticated approach to pathfinding, enabling the calculation of shortest paths between airports. This simulator encapsulates the essence of real-world applications with persistent data management through Java **Serialization**, highlighting my ability to architect complex, efficient, and user-centric software solutions.
 
 ## 📂 Detailed Project Descriptions
+
+### 🎲 Baccarat Game Simulation (GUI Project)
+- Developed a Baccarat game simulation with a graphical user interface, demonstrating Java Swing for interactive applications and implementing game logic, emphasizing object-oriented design and event-driven programming.
 
 ### 🃏 Baseball Card Collection Project
 - Manages a baseball card collection, allowing users to add, remove, copy, and trade cards between two collections. It demonstrates array manipulation, object-oriented programming, and interaction through a command-line interface.
