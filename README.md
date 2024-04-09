@@ -10,6 +10,7 @@ Welcome to my collection of Java projects, a diverse array of programs that refl
 - **Stacks:** 🎴 Took on the challenge of creating a solitaire game, dubbed `Stackotaire`, stacking elements in a fun twist.
 - **Queues:** 🚌 Engineered a `Stony Brook Bus Simulator`, orchestrating queue dynamics in a simulated transport network.
 - **Solo Project:** 🌍 Embarked on creating a `Location Driver Application`, where users input destinations and receive latitude and longitude coordinates.
+- **Trees:** 🌳 Developed a `Tree Navigator` to manipulate and navigate through decision trees, enhancing understanding of tree data structures. Also crafted a `Tree Kiosk Simulator` to mimic real-world applications, demonstrating advanced concepts in tree manipulation and traversal, which further showcases my proficiency in Java, object-oriented programming, and complex data structures and algorithms.
 
 ## 🎯 My Goals with Java
 
