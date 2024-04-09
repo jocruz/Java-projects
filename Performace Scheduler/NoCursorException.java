@@ -6,8 +6,26 @@
 *    e-mail: john.cruz@stonybrook.edu		
 *    Stony Brook ID: 108605747
 **/
+
+/**
+ * Exception thrown when attempting to perform an operation that requires a cursor,
+ * but no cursor is set or the cursor is out of bounds.
+ */
 public class NoCursorException extends Exception {
 
-	public  NoCursorException() {
-	}
+    /**
+     * Constructs a NoCursorException with the default message.
+     */
+    public NoCursorException() {
+        super("No cursor is set or the cursor is out of bounds.");
+    }
+
+    /**
+     * Constructs a NoCursorException with a custom message.
+     *
+     * @param message The message that details the exception cause
+     */
+    public NoCursorException(String message) {
+        super(message);
+    }
 }
