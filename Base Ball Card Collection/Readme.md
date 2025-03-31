@@ -1,9 +1,9 @@
-# Baseball Card Collection Project
+# ⚾ Baseball Card Collection Project
 
-## 📚 Overview
+## Overview
 The Baseball Card Collection project is a comprehensive Java application designed to manage a collection of baseball cards. It allows users to add, remove, copy, and trade baseball cards between two collections, each with a maximum capacity of 100 cards. This project is a testament to object-oriented programming principles, data management, and user interaction through a console-based menu-driven interface.
 
-## ⚾ Key Features
+## Key Features
 - **Card Management:** Users can add new cards with details such as player name, manufacturer, year, size, and price.
 - **Collection Operations:** Supports copying cards within or between collections, updating card details, and removing cards from the collection.
 - **Trade Mechanism:** Allows trading of cards between two distinct collections, enabling dynamic interaction with the card inventory.
@@ -11,13 +11,13 @@ The Baseball Card Collection project is a comprehensive Java application designe
 - **Value Calculation:** Calculates the total value of each collection, highlighting the financial aspect of the card collection.
 - **Exception Handling:** Implements custom exception handling to manage full collection scenarios, ensuring robust error management.
 
-## 🛠️ Technical Highlights
+## Technical Highlights
 - **Data Structures:** Utilizes arrays to store and manage the collection of `BaseballCard` objects, demonstrating effective use of basic data structures in Java.
 - **Object-Oriented Design:** Features well-defined classes with encapsulation, constructors, accessors, mutators, and methods like `clone()` and `equals()` for deep copying and equality checking, illustrating strong OOP practices.
 - **Exception Handling:** Custom exception `FullCollectionException` is defined and used to handle specific error scenarios, ensuring the application's stability and reliability.
 - **User Interface:** A command-line interface (CLI) with a menu-driven system for user interaction, showcasing efficient user input and output handling.
 
-## 🗂️ File Descriptions and Functionalities
+## File Descriptions and Functionalities
 
 ### `BaseballCard.java`
 - **Purpose:** Defines the `BaseballCard` class representing individual baseball cards.
@@ -45,8 +45,8 @@ The Baseball Card Collection project is a comprehensive Java application designe
 - **Functionalities:**
   - Extends the `Exception` class to provide specific error handling related to collection size limits.
 
-## 🎨 Project Significance
+## Project Significance
 This project encapsulates the essence of Java programming with a focus on object-oriented design, data management, and user-centric operations. It serves as an excellent representation of my ability to construct interactive and functional applications while adhering to software development best practices.
 
-## 📝 Usage
+## Usage
 The application is operated via a command-line interface where users can interact with the menu to perform various operations on the baseball card collection, such as adding, copying, trading, and managing cards within the collections.
