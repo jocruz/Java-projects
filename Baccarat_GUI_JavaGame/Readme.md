@@ -1,18 +1,18 @@
 # 🎲 Baccarat Game Simulation
 
-## 🌟 Overview
+## Overview
 The Baccarat Game is a Java-based simulation that encapsulates the essence of the traditional card game with a comprehensive graphical user interface (GUI). This project showcases the integration of Java Swing for the GUI, demonstrating the ability to create interactive and user-friendly applications.
 
-## ✨ Key Features
+## Key Features
 - **Interactive GUI**: Utilizes Java Swing to provide a dynamic and engaging user interface.
 - **Game Mechanics**: Implements the rules of Baccarat, allowing for realistic gameplay including betting, card dealing, and scoring.
 - **Betting System**: Features a simulated purse for placing bets, with updates based on game outcomes.
 
-## 🛠️ Technical Structure
+## Technical Structure
 - **Java Swing for GUI**: Demonstrates the use of Java Swing components like `JPanel`, `JButton`, `JLabel`, and custom event handling for a rich user interface.
 - **Game Logic Implementation**: Shows how game rules and mechanics are coded within Java, offering a practical example of applying programming skills to game development.
 
-## 🔍 Code Highlights
+## Code Highlights
 - **Card Dealing Logic**:
   ```java
   public void drawCard() {
@@ -40,12 +40,10 @@ The Baccarat Game is a Java-based simulation that encapsulates the essence of th
   ```
   Essential for determining the score of a hand in Baccarat, this method calculates the sum of the cards' values, considering the unique scoring rules of Baccarat.
 
-## 🚀 Running the Game
+## Running the Game
 Compile and run `Baccarat_GUI.java` to launch the game. Interact with the GUI to place bets, deal cards, and play rounds of Baccarat against the computer.
 
-## 🎨 Future Enhancements
+## Future Enhancements
 - **Enhanced Betting Features**: Introduce options like betting on ties or player/banker pairs to enrich the gameplay.
 - **Multiplayer Functionality**: Add network capabilities for multiplayer sessions.
 - **Improved Graphics and Animations**: Upgrade the GUI with enhanced graphics and animations for a more immersive experience.
-
-This detailed overview of the Baccarat game project demonstrates the application of Java programming skills in creating an interactive and functional simulation, highlighting key functionalities and code segments that contribute to the project's complexity and functionality.
