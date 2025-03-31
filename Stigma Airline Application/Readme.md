@@ -5,10 +5,10 @@ The **Sigma Airline Application** is a comprehensive system for managing and ana
 
 ## Features
 
-- ** City Management:** Manages global cities with detailed attributes such as name, latitude, and longitude.
-- ** Comparator Utilities:** Provides sorting functionality for cities based on latitude, longitude, and name.
-- ** Network Analysis:** Maintains an efficient route network using an adjacency matrix and implements the Floyd-Warshall algorithm for shortest path calculations.
-- ** User Interface:** Offers a command-line interface for interactive management of the airline network.
+- **City Management:** Manages global cities with detailed attributes such as name, latitude, and longitude.
+- **Comparator Utilities:** Provides sorting functionality for cities based on latitude, longitude, and name.
+- **Network Analysis:** Maintains an efficient route network using an adjacency matrix and implements the Floyd-Warshall algorithm for shortest path calculations.
+- **User Interface:** Offers a command-line interface for interactive management of the airline network.
 
 ## File Descriptions
 
