@@ -5,12 +5,12 @@ This Bank Card Management System is a Java-based application designed for handli
 
 ## Features
 
-- ** General Card Management:** Abstract class `BankCard` serves as a base for different card types, managing common properties like card number and balance.
-- ** Credit Card Handling:** `CreditCard` class extends `BankCard` to include credit-specific features such as credit limits and expiration dates.
-- ** Rewards Card Features:** `RewardsCard` extends `CreditCard` to add rewards points functionality.
-- ** Prepaid Card Operations:** `PrepaidCard` class for managing prepaid debit cards with direct balance control.
-- ** Transaction Management:** Track and manage debit and credit transactions for all card types.
-- ** Sorting and Searching:** Comparator classes (`LatComparator`, `LngComparator`, `NameComparator`) to sort and organize data efficiently.
+- **General Card Management:** Abstract class `BankCard` serves as a base for different card types, managing common properties like card number and balance.
+- **Credit Card Handling:** `CreditCard` class extends `BankCard` to include credit-specific features such as credit limits and expiration dates.
+- **Rewards Card Features:** `RewardsCard` extends `CreditCard` to add rewards points functionality.
+- **Prepaid Card Operations:** `PrepaidCard` class for managing prepaid debit cards with direct balance control.
+- **Transaction Management:** Track and manage debit and credit transactions for all card types.
+- **Sorting and Searching:** Comparator classes (`LatComparator`, `LngComparator`, `NameComparator`) to sort and organize data efficiently.
 
 ## File Descriptions
 
